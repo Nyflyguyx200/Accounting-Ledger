@@ -1,18 +1,22 @@
-Financial Tracker
+##Financial Tracker
+
 Financial Tracker is a Java application designed to help users manage their finances by tracking deposits, payments, and generating various financial reports. This application allows users to record their transactions, view their transaction history, and generate reports based on different time periods.
 
-Features
+##Features
+
 Add deposits: Users can add deposits by entering details such as description, vendor, and amount.
 Make payments: Users can make payments by entering details such as description, vendor, and amount.
 View ledger: Users can view their transaction history categorized as deposits and payments.
 Generate reports: Users can generate reports for the current month, previous month, current year, previous year, and search transactions by vendor.
 
-Getting Started
+##Getting Started
+
 Clone this repository to your local machine.
 Compile the Java files using your preferred Java compiler.
 Run the FinancialTracker.java file to launch the application.
 
-Example Usage
+##Example Usage
+
 Run the application.
 Choose the desired action from the home screen menu by entering the corresponding letter (e.g., 'D' for adding a deposit).
 Follow the prompts to enter transaction details.
